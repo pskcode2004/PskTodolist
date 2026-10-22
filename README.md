@@ -190,4 +190,4 @@ The Vercel project must define the same `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUB
 
 Licensed under the MIT License.
 
-Developed by [@7sadakonr](https://github.com/7sadakonr)
+Developed by @pskcode2004
